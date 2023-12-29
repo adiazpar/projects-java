@@ -1,3 +1,2 @@
-# CS1150
-This repository is a saved backup of programming assignments from CS1150. 
-CS1150 is formally known as Intro To Computer Science with Java at UCCS.
+Welcome!
+This repository contains source files for my previous and current projects coded in the C programming language. The contents extend to both academic and personal applications.
