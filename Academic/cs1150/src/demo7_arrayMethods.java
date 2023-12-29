@@ -13,7 +13,7 @@
     I will access various different objects from main.
 */
 
-public class DiazAlejandroAssignment8 
+public class demo7_arrayMethods 
 {
     public static void main(String[] args)
     {

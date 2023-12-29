@@ -12,7 +12,7 @@
 
 import java.util.Scanner;
 
-public class DiazAlejandroAssignment7
+public class demo6_methods
 {
     public static void main(String[] args)
     {

@@ -12,7 +12,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class DiazAlejandroAssignment2 
+public class demo2_vars 
 {
     public static void main(String[] args)
     { 

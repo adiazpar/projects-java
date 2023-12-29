@@ -1,6 +1,4 @@
-package chapter2;
-
-public class exampleBytes 
+public class ex_bytes 
 {
     public static void main(String[] args) 
     {

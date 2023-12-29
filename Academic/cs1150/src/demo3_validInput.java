@@ -12,7 +12,7 @@
 
 import java.util.Scanner;
 
-public class DiazAlejandroAssignment3 
+public class demo3_validInput 
 {
     // Defining constants:
     public static final String HOTEL1_NAME = "Best Western";

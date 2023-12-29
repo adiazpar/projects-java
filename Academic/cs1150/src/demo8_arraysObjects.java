@@ -12,7 +12,7 @@
     Similar manipulations will be performed on the forest object.
 */
 
-public class DiazAlejandroAssignment10 
+public class demo8_arraysObjects 
 {
     public static void main(String[] args)
     {

@@ -1,7 +1,6 @@
-package chapter4;
 import java.util.Scanner;
 
-public class Question1
+public class ex_password
 {
     public static void main(String[] args)
     {

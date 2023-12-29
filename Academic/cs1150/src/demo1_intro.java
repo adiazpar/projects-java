@@ -8,7 +8,7 @@
     using my IDE and creating new projects!
 */
 
-public class DiazAlejandroAssignment1 
+public class demo1_intro 
 {
     public static void main(String[] args)
     {

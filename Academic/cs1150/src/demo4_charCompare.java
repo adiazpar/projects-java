@@ -13,7 +13,7 @@
 
 import java.util.Scanner;
 
-public class DiazAlejandroAssignment4 
+public class demo4_charCompare 
 {
     public static void main(String[] args)
     {

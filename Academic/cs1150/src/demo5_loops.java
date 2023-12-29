@@ -15,7 +15,7 @@
 
 import java.util.Scanner;
 
-public class DiazAlejandroAssignment6 
+public class demo5_loops 
 {
     static final String SNACKS[] = {"Pop Tarts", "Pretzels", "Funyuns "};
     static final double PRICES[] = {0.90, 0.70, 1.50};
