@@ -17,8 +17,7 @@ public class demo1_intro
         System.out.println("I am passionate about Computer Science.");
         System.out.println("I learned to love computer science in high school.");
         System.out.println("The degree I'm working towards is a Bachelor's of Science in CS.");
-        System.out.println("I have a couple of years left until completion.");
-        System.out.println("");
+        System.out.println("I have a couple of years left until completion.\n");
         System.out.println("\tMy favorite hobbies right now include 3D Printing.");
         System.out.println("I'm working with an Ender 3 Pro, one of the most common beginner printers.");
         System.out.println("There are many things that can be done with a 3D printer.");
@@ -28,11 +27,11 @@ public class demo1_intro
         System.out.println("\nPART 2:");
         System.out.println("Fahrenheit\tCelsius");
         System.out.println("-----------------------------");
-        System.out.println("0\t\t" + (0-32)*(5/9.0));
-        System.out.println("20\t\t" + (20-32)*(5/9.0));
-        System.out.println("40\t\t" + (40-32)*(5/9.0));
-        System.out.println("60\t\t" + (60-32)*(5/9.0));
-        System.out.println("80\t\t" + (80-32)*(5/9.0));
-        System.out.println("100\t\t" + (100-32)*(5/9.0));
+        System.out.println("0\t\t\t" + (-32)*(5/9.0));
+        System.out.println("20\t\t\t" + (20-32)*(5/9.0));
+        System.out.println("40\t\t\t" + (40-32)*(5/9.0));
+        System.out.println("60\t\t\t" + (60-32)*(5/9.0));
+        System.out.println("80\t\t\t" + (80-32)*(5/9.0));
+        System.out.println("100\t\t\t" + (100-32)*(5/9.0));
     }
 }
